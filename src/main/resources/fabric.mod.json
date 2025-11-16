@@ -5,11 +5,12 @@
 	"name": "Simple Translation",
 	"description": "一个可以实时翻译聊天栏文本的Minecraft模组，支持百度翻译API。A Minecraft mod that translates chat messages in real-time using Baidu Translate API.",
 	"authors": [
-		"Your Name"
+		"baokaixin"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/baokaixin/simple-translation",
+		"sources": "https://github.com/baokaixin/simple-translation",
+		"issues": "https://github.com/baokaixin/simple-translation/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/simple-translation/icon.png",
