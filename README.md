@@ -151,8 +151,6 @@ Simple Translation 是一个功能强大的 Minecraft Fabric 模组，支持实�
 ### 🎮 告示牌翻译模式
 
 - **range（范围模式）**：翻译玩家周围一定范围内的所有告示牌
-- **looking（视线模式）**：只翻译玩家正在查看的告示牌
-- **translateSignOnSneak**：设置为 `true` 时，只有潜行时才翻译告示牌
 
 ### 📸 截图
 
@@ -333,8 +331,6 @@ Supports all OpenAI-compatible APIs, such as DeepSeek, OpenAI, Claude, etc.
 ### 🎮 Sign Translation Modes
 
 - **range**: Translate all signs within a certain range around the player
-- **looking**: Only translate the sign the player is looking at
-- **translateSignOnSneak**: When set to `true`, only translate signs while sneaking
 
 ### 📸 Screenshots
 
