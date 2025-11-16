@@ -1,0 +1,47 @@
+{
+	"schemaVersion": 1,
+	"id": "simple-translation",
+	"version": "${version}",
+	"name": "Simple Translation",
+	"description": "一个可以实时翻译聊天栏文本的Minecraft模组，支持百度翻译API。A Minecraft mod that translates chat messages in real-time using Baidu Translate API.",
+	"authors": [
+		"Your Name"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/simple-translation/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"translation.modid.SimpleTranslation"
+		],
+		"client": [
+			"translation.modid.SimpleTranslationClient"
+		],
+		"fabric-datagen": [
+			"translation.modid.SimpleTranslationDataGenerator"
+		],
+		"modmenu": [
+			"translation.modid.integration.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"simple-translation.mixins.json",
+		{
+			"config": "simple-translation.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}

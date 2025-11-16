@@ -1,0 +1,23 @@
+{
+	"required": true,
+	"package": "translation.modid.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+    "ExampleClientMixin",
+    "ChatHudMixin",
+    "BookViewScreenMixin",
+    "BookEditScreenMixin",
+    "SignBlockEntityMixin",
+    "ChatComponentMixin",
+    "AdvancementDisplayMixin",
+    "EntityMixin",
+    "GuiMixin",
+    "ScoreboardMixin",
+    "ClientboundSetActionBarTextPacketMixin",
+    "BossHealthOverlayMixin",
+    "TextDisplayMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

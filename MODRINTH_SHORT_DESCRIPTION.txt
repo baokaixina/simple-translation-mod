@@ -1,0 +1,4 @@
+一个功能强大的 Minecraft 实时翻译模组，支持多种翻译 API（免费翻译、百度翻译、LLM），可翻译聊天、书本、告示牌、物品提示、成就等游戏内所有文本内容。
+
+A powerful real-time translation mod for Minecraft with support for multiple translation APIs (free, Baidu, LLM), translating chat, books, signs, tooltips, advancements, and all in-game text content.
+

@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "apiType": "llm",
+  "baiduAppId": "",
+  "baiduSecretKey": "",
+  "llmProvider": "deepseek",
+  "llmApiKey": "sk-你的真实API密钥",
+  "llmApiUrl": "",
+  "llmModel": "",
+  "sourceLang": "auto",
+  "targetLang": "zh",
+  "showOriginal": true,
+  "autoTranslate": true,
+  "translationDelay": 500
+}
+

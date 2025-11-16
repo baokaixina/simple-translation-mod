@@ -1,0 +1,28 @@
+# 换行符处理（跨平台兼容）
+* text=auto eol=lf
+
+# 二进制文件（不转换换行符）
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.jar binary
+*.class binary
+*.dll binary
+*.so binary
+*.dylib binary
+
+# 代码文件强制使用 LF 换行符
+*.java text eol=lf
+*.gradle text eol=lf
+*.properties text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+
+# 脚本文件
+*.sh text eol=lf
+*.bat text eol=crlf
