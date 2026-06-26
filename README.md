@@ -4,7 +4,7 @@
 >
 > The current SimpleTranslate 2.0 project has moved to:
 >
-> - GitHub: <https://github.com/xiaokeai198/SimpleTranslate>
+> - GitHub: <https://github.com/baokaixin/SimpleTranslate>
 > - Modrinth: <https://modrinth.com/mod/simpletranslation>
 > - MC百科: <https://www.mcmod.cn/class/23154.html>
 
@@ -16,7 +16,7 @@
 
 当前维护中的新版项目是 **SimpleTranslate 2.0 / 简单翻译 2.0**，已经迁移到：
 
-<https://github.com/xiaokeai198/SimpleTranslate>
+<https://github.com/baokaixin/SimpleTranslate>
 
 请优先前往新仓库下载、查看说明或提交反馈。
 
@@ -42,7 +42,7 @@ This repository contains the old **Simple Translation 1.0** codebase and release
 
 The actively maintained **SimpleTranslate 2.0** project has moved to:
 
-<https://github.com/xiaokeai198/SimpleTranslate>
+<https://github.com/baokaixin/SimpleTranslate>
 
 Please use the new repository for downloads, documentation, issues, and future updates.
 
@@ -55,3 +55,4 @@ Please use the new repository for downloads, documentation, issues, and future u
 - Translation cache, token statistics, and hold-to-show-original features.
 
 This repository is kept only as a historical archive for the old 1.0 version.
+
